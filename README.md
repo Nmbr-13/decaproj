@@ -1,2 +1,2 @@
 # decaproj
-Test-project for Decathlon interview
+Test-project for Decathlon
