@@ -1,0 +1,4 @@
+.idea
+.terraform*
+.DS_Store
+kubeconfig_decathlon-proj-eks-cluster
