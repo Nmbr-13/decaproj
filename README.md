@@ -29,7 +29,7 @@
   После запуска всех ресурсов сайт станет доступен по адресу, на котором висит ingress (он же адрес NLB).
 
 ### На данный момент сайт доступен по следующему адресу:
- > address: a3bfd6567038c43529efb81f6fa54ece-8e9e898aae4594fb.elb.eu-central-1.amazonaws.com
+ > address: [a3bfd6567038c43529efb81f6fa54ece-8e9e898aae4594fb.elb.eu-central-1.amazonaws.com](a3bfd6567038c43529efb81f6fa54ece-8e9e898aae4594fb.elb.eu-central-1.amazonaws.com)
  >
  > login: decathlon
  >
