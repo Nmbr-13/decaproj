@@ -34,6 +34,3 @@
  > login: decathlon
  >
  > password: password
-
-  
->>>>>>> master
