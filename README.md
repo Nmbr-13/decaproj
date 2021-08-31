@@ -5,7 +5,7 @@
 - state хранится удалённо в S3 bucket
 2. kubernetes - kubectl:
 - основные ресурсы описаны в манифестах deployment.yaml, ingress.yaml
-- для работы ingress использовался [ngin ingress-controller для aws](https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v0.45.0/deploy/static/provider/aws/deploy.yaml)
+- для работы ingress использовался [nginx ingress-controller для aws](https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v0.45.0/deploy/static/provider/aws/deploy.yaml)
 
 ### Особенности проекта:
 - Terraform разворачивает полностью настроенный k8s кластер на базе AWS EKS, в состав кластера входят 2 working-ноды типа t2.small
